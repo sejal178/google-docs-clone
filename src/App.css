@@ -1,0 +1,172 @@
+.google-docs-clone {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  body{
+    font-family: Arial;
+    color:rgb(30, 29, 29);
+    
+  
+
+  }
+  .toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+  }
+  .underdiv{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 16px;
+    background-color: #9ed7f6;
+    border-bottom: 1px solid #e9ecef;
+    border-radius: 34px;
+ 
+  }
+  .ho:hover{
+
+    background-color:rgb(205, 201, 201);
+  }
+.HistoryO
+  .toolbar__left {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    
+  }
+  .a1w{
+    margin-top: 34px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .a1{
+    
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .b1{
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .c1{
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .d1{
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .e1{
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .f1{
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  .g1{
+    cursor: pointer;
+  }
+  .a1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .b1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .c1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .d1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .e1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .f1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+  .g1:hover{
+    background-color:rgb(205, 201, 201);
+  }
+ 
+  .toolbar__document-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 16px;
+  }
+  
+  .toolbar__formatting-options button {
+    margin-right: 8px;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 3px;
+    background-color: transparent;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  
+  
+  .toolbar__right button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    
+    cursor: pointer;
+    border-radius: 34px;
+  }
+  
+  .toolbar__right button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .google-docs-clone__content {
+    display: flex;
+    flex: 1;
+  }
+  
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-right: 1px solid #e9ecef;
+    width: 200px;
+  }
+  
+  .sidebar a {
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+  }
+  
+  .text-editor {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .text-editor__textarea {
+    width: 100%;
+    height: 100%;
+   
+  }  
+  .avc{
+    display:flex;
+    align-items: center;
+    padding: 8px 16px;
+    margin-right: 34px;
+    margin-left: 81px;
+    
+  }
